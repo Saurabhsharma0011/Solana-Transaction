@@ -1,1 +1,1 @@
-this is sample project
+updated docs will release tommorow
